@@ -185,7 +185,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Merriweather", serif;
+    font-family: "Muli", serif;
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.75em;
@@ -513,6 +513,8 @@ body.nav-opened .site-wrapper {
 
 .main-header .inner {
     width: 80%;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 5px;
 }
 
 .main-nav {
@@ -775,10 +777,19 @@ body.nav-opened .nav {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    display: block;
+    display: inline;
     height: 38px;
-    padding: 1px 0 5px 0;
+    padding: 1px 5px 0px 0;
     width: auto;
+}
+
+.blog-logo h4 {
+    display: inline;
+    color: white;
+    position: relative;
+    top: -8px;
+    font-family: "Muli";
+    font-style: italic;
 }
 
 .menu-button {
@@ -869,8 +880,7 @@ body.nav-opened .nav {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
-    font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Muli", sans-serif;
     color: #fff;
 }
 
@@ -878,8 +888,8 @@ body.nav-opened .nav {
     margin: 0;
     font-size: 2rem;
     line-height: 1.5em;
-    font-weight: 400;
-    font-family: "Merriweather", serif;
+    font-style: italic;
+    font-family: "Muli", serif;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);
 }
@@ -1310,7 +1320,7 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: "Merriweather", serif;
+    font-family: "Muli", serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
@@ -1568,6 +1578,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .site-footer {
+    background-color: black;
     position: relative;
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
