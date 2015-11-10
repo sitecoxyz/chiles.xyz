@@ -1,0 +1,8 @@
+---
+layout: page
+navigation: True
+---
+{% for pepper in site.peppers %}
+  <a href="{{ site.url }}{{ pepper.collection }}/{{ pepper.title | downcase }}.html"><h4>{{ pepper.title }}</h4></a>
+  <p><strong>Avg. Heat:</strong> {{ pepper.avg_heat }} scoville units.</p>
+{% endfor %}

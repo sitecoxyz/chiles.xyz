@@ -2,6 +2,7 @@
 layout: page
 cover: 'assets/images/habaneros.jpg'
 title:  Habanero
+avg_heat: '200,000'
 tags: spicy
 subclass: 'post tag-peppers'
 categories: 'casper'
