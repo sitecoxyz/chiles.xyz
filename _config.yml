@@ -1,0 +1,45 @@
+# Website info
+name: 'Chiles.xyz'
+description: "The final stop for all pepper lovers!"
+logo: 'assets/images/peperoncino.png'
+
+# Author's info
+author: 'Chiles.xyz'
+username: pepper
+bio: 'A chile pepper enthusiast.'
+location: 'NYC, USA'
+url: 'http://chiles.xyz/'
+image: 'assets/images/casper.png'
+
+# Jykell configuration
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+language: 'en-uk'
+short_url: 'chiles.xyz/'
+google_analytics: UA-69825191-1
+
+disqus: username
+baseurl: /
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+collections:
+  peppers:
+    output: true
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
