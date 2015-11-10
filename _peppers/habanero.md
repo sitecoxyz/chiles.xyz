@@ -14,7 +14,7 @@ The habanero is one of the most popular chili peppers, originating in south amer
 
 In 1999 the habanero was considered the world's hottest chili by the Guiness Book of World Records, but has since been surpassed.
 
-Also, very popular in ... cooking.
+Many commercial cultivars around the world are breeding habaneros with varying level of heat.  In 2004 there was even a mild version of the habanero created by researchers in Texas that was said to retain the traditional aroma and flavor.  It was obtained by crossing the traditional habanero with a heatless Bolivian habanero.
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
