@@ -1486,6 +1486,13 @@ body:not(.post-template) .post-title {
     margin-bottom: 1.75em;
 }
 
+div#amzn-native-ad-0 {
+    max-width: 100% !important;
+}
+
+#amzn_assoc_ad_div_adunit0_0 {
+    padding:0 20px 0 20px;
+}
 
 /* ==========================================================================
    9. Pagination - Tools to let you flick between pages

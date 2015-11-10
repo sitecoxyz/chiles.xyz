@@ -34,8 +34,8 @@
         {{ content }}
 
         <footer class="site-footer clearfix">
-          <section class="copyright"><a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; {{  site.time | date: '%Y' }}</section>
-          <section class="poweredby">Thanks to <a href="https://www.flickr.com/photos/{{ page.img_link }}">{{ page.img_attr }}</a> for their {{ page.title }} image.</section>
+          <section class="copyright"><a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; {{  site.time | date: '%Y' }}</section>{% if page.img_link %}
+          <section class="poweredby">Thanks to <a href="https://www.flickr.com/photos/{{ page.img_link }}">{{ page.img_attr }}</a> for their {{ page.title }} image.</section>{% endif %}
         </footer>
     </div>
     <!-- [[! Ghost outputs important scripts and data with this tag ]] -->
