@@ -12,7 +12,7 @@ img_lic: 'https://creativecommons.org/licenses/by/2.0/legalcode'
 ---
 Often pickled, these mild peppers can be quite sweet with a touch of heat.  With the seeds removed, heat is very low.
 
-This is a relatively new type of pepper.  The exact parents are not known but it is thought that the variety is probably a stable habanero mutation.
+This is a relatively new type of pepper, first discovered and bred in South Africa.  The exact parents are not known but it is thought that the variety is probably a stable habanero mutation.
 
 While stabilizing this variety selection criteria were high yield, color, taste, and quality of the fruit.
 
