@@ -300,7 +300,7 @@ hr {
     height: 1px;
     border: 0;
     border-top: #EFEFEF 1px solid;
-    margin: 3.2em 0;
+    /*margin: 3.2em 0;*/
     padding: 0;
 }
 
@@ -526,6 +526,10 @@ body.nav-opened .site-wrapper {
 .main-nav a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
+}
+
+h2.intro {
+    font-family: Muli;
 }
 
 /* Navigation */

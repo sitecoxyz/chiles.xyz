@@ -1,6 +1,11 @@
 ---
 layout: page
+title: 'Pepper List'
 navigation: True
+cover: 'assets/images/usda-peppers.jpg'
+img_link: 'usdagov/14258251807'
+img_attr: 'USDA'
+img_lic: 'https://creativecommons.org/licenses/by/2.0/'
 ---
 {% for pepper in site.peppers %}
   <a href="{{ site.url }}{{ pepper.collection }}/{{ pepper.title | downcase }}.html"><h4>{{ pepper.title }}</h4></a>
