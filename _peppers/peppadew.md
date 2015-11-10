@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pepper
 cover: 'assets/images/peppadew.jpg'
 title:  Peppadew
 avg_heat: '< 1,000'
@@ -19,6 +19,8 @@ While stabilizing this variety selection criteria were high yield, color, taste,
 Peppadews can often look like cherry tomatoes but tend to be more heartshaped than round.
 
 This plant has white flowers with green inner corolla.  Fruits start green, turning red as they mature.
+
+<share-button></share-button>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

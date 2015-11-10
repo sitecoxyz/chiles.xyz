@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pepper
 cover: 'assets/images/jalapeno.jpg'
 title:  Jalapeno
 avg_heat: '1,000 - 20,000'
@@ -14,6 +14,8 @@ img_lic: 'https://creativecommons.org/licenses/by/2.0/legalcode'
 The jalapeno is a medium sized chili pepper.  It is spicy but not overwhelming by any measure.  It is commonly picked  while green, but can also be allowed to fully ripen and turn bright red.  Recently, more colors have been being bred.
 
 Jalapenos are interesting because you can get an idea of how hot they are just by looking at them.  The number of scars on the pepper, which appear as small brown lines, called 'corking', has a positive correlation with heat level.
+
+<share-button></share-button>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

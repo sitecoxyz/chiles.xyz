@@ -8,7 +8,7 @@ author: 'Chiles.xyz'
 username: pepper
 bio: 'A chile pepper enthusiast.'
 location: 'NYC, USA'
-url: 'http://chiles.xyz/'
+url: 'http://localhost:4000'
 image: 'assets/images/casper.png'
 
 # Jykell configuration
@@ -16,11 +16,11 @@ markdown: redcarpet
 highlighter: pygments
 paginate: 5
 language: 'en-uk'
-short_url: 'chiles.xyz/'
+short_url: 'chiles.xyz'
 google_analytics: UA-69825191-1
 
 disqus: username
-baseurl: /
+baseurl: 
 
 # Permalinks
 permalink: /:title

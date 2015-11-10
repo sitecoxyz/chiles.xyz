@@ -439,6 +439,9 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
+p#heat {
+    text-indent: 10px;
+}
 
 /* ==========================================================================
    3. Utilities - These things get used a lot
@@ -2018,6 +2021,10 @@ img.amzn-native-product-image {
         width: 100%;
     }
 
+}
+
+share-button{
+    left: 42%;
 }
 
 

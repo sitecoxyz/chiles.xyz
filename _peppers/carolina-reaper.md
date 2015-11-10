@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pepper
 cover: 'assets/images/carolina-reaper.jpg'
 title:  Carolina Reaper
 avg_heat: '1.5 - 2.2 million'
@@ -15,6 +15,8 @@ Carolina Reapers have a menacing look with a scorpion-like tail and bright red f
 The Carolina Reaper is generally considered to be the current hottest chili pepper in the world ever since it was rated as such by the Guiness Book of World Records on Aug. 7th 2013.  The specific batch that has the record is code named HP22B for "Higher Power, Pot No. 22, Plant B." grown by Ed Currie of PuckerButt Pepper Co. in South Carolina.  The heat of Currie's peppers was certified by students at Winthrop University who test food as part of their undergraduate classes.
 
 Luckily, Ed is selling [these exact seeds](http://amzn.to/1MmuuBT) and they are the only seeds we will suggest related to the Carolina Reaper.
+
+<share-button></share-button>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
