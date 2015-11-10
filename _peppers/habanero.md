@@ -10,9 +10,9 @@ img_link: 'diogeneselfilosofo/8755504347'
 img_attr: 'Diógenes ;)'
 img_lic: 'https://creativecommons.org/licenses/by/2.0/legalcode'
 ---
-The habanero is one of the most popular...
+The habanero is one of the most popular chili peppers, originating in south america several thousand years ago.
 
-It is native to...
+In 1999 the habanero was considered the world's hottest chili by the Guiness Book of World Records, but has since been surpassed.
 
 Also, very popular in ... cooking.
 
