@@ -8,12 +8,17 @@ subclass: 'post tag-peppers'
 navigation: True
 img_link: 'hans-westbeek/9085114236'
 img_attr: 'Hans Westbeek'
+img_lic: 'https://creativecommons.org/licenses/by/2.0/legalcode'
 ---
 Often pickled, these mild peppers can be quite sweet with a touch of heat.  With the seeds removed, heat is very low.
 
-This is a relatively new type of pepper.
+This is a relatively new type of pepper.  The exact parents are not known but it is thought that the variety is probably a stable habanero mutation.
 
-Peppadews can often look like cherry tomatoes.
+While stabilizing this variety selection criteria were high yield, color, taste, and quality of the fruit.
+
+Peppadews can often look like cherry tomatoes but tend to be more heartshaped than round.
+
+This plant has white flowers with green inner corolla.  Fruits start green, turning red as they mature.
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

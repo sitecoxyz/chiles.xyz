@@ -790,6 +790,7 @@ body.nav-opened .nav {
     top: -8px;
     font-family: "Muli";
     font-style: italic;
+    text-shadow: 1px 1px 2px black;
 }
 
 .menu-button {

@@ -5,12 +5,12 @@ title:  Habanero
 avg_heat: '200,000'
 tags: spicy
 subclass: 'post tag-peppers'
-categories: 'casper'
 navigation: True
 img_link: 'diogeneselfilosofo/8755504347'
 img_attr: 'Diógenes ;)'
+img_lic: 'https://creativecommons.org/licenses/by/2.0/legalcode'
 ---
-<h2>The habanero is one of the most popular...</h2>
+The habanero is one of the most popular...
 
 It is native to...
 
