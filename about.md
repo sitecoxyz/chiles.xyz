@@ -7,8 +7,8 @@ logo: 'assets/images/ghost.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Chiles.xyz is a site for pepper lovers.
 
-We use this for testing and for reference!
+We love growing, cooking, and of course eating all kinds of chile peppers.
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+With so many varieties and so many vendors we found it hard to keep track of everything.  Our response was to create chiles.xyz, a place where you can get all the relevant information in one place as well as stay up to date on the top reputable vendors of chile pepper seeds, dried chiles, and chili pepper products.
