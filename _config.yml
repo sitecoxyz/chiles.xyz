@@ -8,7 +8,7 @@ author: 'Chiles.xyz'
 username: pepper
 bio: 'A chile pepper enthusiast.'
 location: 'NYC, USA'
-url: 'http://localhost:4000'
+url: 'http://chiles.xyz'
 image: 'assets/images/casper.png'
 
 # Jykell configuration
