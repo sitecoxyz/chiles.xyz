@@ -20,7 +20,7 @@ short_url: 'chiles.xyz'
 google_analytics: UA-69825191-1
 
 disqus: username
-baseurl: 
+baseurl: /
 
 # Permalinks
 permalink: /:title
