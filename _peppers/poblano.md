@@ -16,6 +16,8 @@ Poblano peppers mature from a dark green to a very dark red, sometimes almost bl
 
 Poblanos are often dried and called "chile ancho".
 
+<share-button></share-button>
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_tracking_id = "loucalnet-20";
